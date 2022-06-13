@@ -1,7 +1,6 @@
 ## Olá sou o Rodrigo 👋
 
 <p>Desenvoledor Front-end, em transição de carreira.</p>  
-<p>Meu objetivo é aperfeiçoar minhas habilidades na área da tecnologia, como ser humano.</p>
 
 <div> 
  <a href="https://www.linkedin.com/in/rodrfx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
